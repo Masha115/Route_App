@@ -1,0 +1,21 @@
+.filterContainer {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+  background: rgba(72, 171, 10, 0.9);
+  padding: 10px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+  h4 {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+
+  span {
+    font-weight: bold;
+    color: #ffffff;
+  }
+}
